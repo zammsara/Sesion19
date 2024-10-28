@@ -1,0 +1,12 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\bin\Debug\MiPrimerForm.exe.config
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\bin\Debug\MiPrimerForm.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\bin\Debug\MiPrimerForm.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.Form1.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.Properties.Resources.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.Formularios.FrmAbout.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.Formularios.FrmProducto.resources

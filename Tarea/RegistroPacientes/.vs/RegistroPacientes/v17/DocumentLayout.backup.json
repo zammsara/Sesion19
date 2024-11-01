@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\sesion19\\registropacientes\\registropacientes\\forms\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|solutionrelative:registropacientes\\forms\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\sesion19\\registropacientes\\registropacientes\\forms\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|solutionrelative:registropacientes\\forms\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\sesion19\\registropacientes\\registropacientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|solutionrelative:registropacientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\sesion19\\registropacientes\\registropacientes\\forms\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|solutionrelative:registropacientes\\forms\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{418C2D3C-DF8C-4536-AECA-A91B80269085}|RegistroPacientes\\RegistroPacientes.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\sesion19\\registropacientes\\registropacientes\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,25 +42,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\forms\\Registro.cs",
               "RelativeDocumentMoniker": "RegistroPacientes\\forms\\Registro.cs",
-              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\forms\\Registro.cs*",
-              "RelativeToolTip": "RegistroPacientes\\forms\\Registro.cs*",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGYAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\forms\\Registro.cs",
+              "RelativeToolTip": "RegistroPacientes\\forms\\Registro.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAI0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:43:50.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Registro.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\forms\\Registro.cs",
               "RelativeDocumentMoniker": "RegistroPacientes\\forms\\Registro.cs",
-              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\forms\\Registro.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "RegistroPacientes\\forms\\Registro.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\forms\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroPacientes\\forms\\Registro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:20:39.616Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -84,8 +84,8 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\Form1.cs",
               "RelativeDocumentMoniker": "RegistroPacientes\\Form1.cs",
-              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\Form1.cs*",
-              "RelativeToolTip": "RegistroPacientes\\Form1.cs*",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\Form1.cs",
+              "RelativeToolTip": "RegistroPacientes\\Form1.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:18:28.047Z",
@@ -93,12 +93,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\Form1.cs",
               "RelativeDocumentMoniker": "RegistroPacientes\\Form1.cs",
-              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "RegistroPacientes\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Sesion19\\RegistroPacientes\\RegistroPacientes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroPacientes\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:03:28.786Z",
               "EditorCaption": " [Dise\u00F1o]"

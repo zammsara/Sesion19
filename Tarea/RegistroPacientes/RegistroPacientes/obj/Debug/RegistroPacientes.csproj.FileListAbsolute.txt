@@ -9,3 +9,14 @@ C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\RegistroPacientes\RegistroPa
 C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.csproj.CoreCompileInputs.cache
 C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.exe
 C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion19\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\bin\Debug\RegistroPacientes.exe.config
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\bin\Debug\RegistroPacientes.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\bin\Debug\RegistroPacientes.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.Form1.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.forms.Registro.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.Properties.Resources.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\clone\Sesion19\Tarea\RegistroPacientes\RegistroPacientes\obj\Debug\RegistroPacientes.pdb
